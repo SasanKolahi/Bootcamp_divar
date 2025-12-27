@@ -9,9 +9,9 @@ Our team engineered a complete data pipeline that includes data cleaning, explor
 **Aryan**
 
 ## Team Members 
-**Sasan**
-**Mohammad**
-**Amin**
+**Sasan,** 
+**Mohammad,**
+**Amin,**
 **Mahyar**
 
 ---
